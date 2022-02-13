@@ -502,7 +502,7 @@ section {
 
 /* end footer */
 
-@media (max-width: 46.1875em) {
+@media (max-width: 991px) {
   html {
     font-size: 55%;
   }
@@ -556,7 +556,7 @@ section {
   }
 
   .home-title {
-    font-size: 10rem;
+    font-size: 9rem;
     top: -5rem;
     left: -15.5rem;
   }
@@ -656,7 +656,7 @@ section {
   }
 
   .products-card .card-content .btn-card {
-    margin-left: 5.2rem;
+    margin-left: 4.5rem;
   }
 
   .btn-icon {
