@@ -558,12 +558,12 @@ section {
   .home-title {
     font-size: 9rem;
     top: -5rem;
-    left: -.5rem;
+    left: -12rem;
   }
 
   .home-subtitle {
     font-size: 6rem;
-    margin-left: -17rem;
+    margin-left: -15rem;
   }
 
   .sub {
@@ -575,7 +575,7 @@ section {
   }
 
   .sub p {
-    font-size: 1.7rem;
+    font-size: 1.5rem;
   }
 
   .btn {
@@ -633,6 +633,7 @@ section {
   }
 
   .footer-container {
+    gap: 2rem;
     margin-right: -14rem;
   }
 
@@ -649,15 +650,15 @@ section {
   }
 
   .products-card .card-content h3 {
-    font-size: 1.5rem;
+    font-size: 1.6rem;
   }
 
   .products-card .card-content span {
-    font-size: 1.3rem;
+    font-size: 1.4rem;
   }
 
   .products-card .card-content .btn-card {
-    margin-left: 4.5rem;
+    margin-left: 5.5rem;
   }
 
   .btn-icon {
