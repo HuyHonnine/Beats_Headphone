@@ -558,12 +558,12 @@ section {
   .home-title {
     font-size: 9rem;
     top: -5rem;
-    left: -15.5rem;
+    left: -.5rem;
   }
 
   .home-subtitle {
     font-size: 6rem;
-    margin-left: -19rem;
+    margin-left: -17rem;
   }
 
   .sub {
@@ -575,7 +575,7 @@ section {
   }
 
   .sub p {
-    font-size: 1.5rem;
+    font-size: 1.7rem;
   }
 
   .btn {
@@ -605,7 +605,8 @@ section {
 
   .discount-container {
     gap: 0;
-    margin-right: -13rem;
+    margin-right: -17rem;
+    margin-left: -4rem;
   }
 
   .discount-content {
@@ -632,7 +633,7 @@ section {
   }
 
   .footer-container {
-    margin-right: -12rem;
+    margin-right: -14rem;
   }
 
   .credit {
